@@ -2,7 +2,7 @@
 title: Whisp
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-06
+modified: 2025-05-07
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -15,8 +15,8 @@ publish: true
 >
 > |               |
 > | ------------- |
-> | [identity:: ] |
-> | [theme:: ] |
+> | [identity:: Spirit Within Stone] |
+> | [theme:: Odyssean] |
 > | [origin:: The Sephiroth Plane] |
 > | [quirk:: [[Quirks#Robot\|Robot]]] |
 > | [class:: [[Chanter]]] |

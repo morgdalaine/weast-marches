@@ -1,5 +1,5 @@
 ---
-title: Cascata Ludovica
+title: Cascata Leontina
 tags: [ttrpg, west-marches]
 created: 2025-05-06
 modified: 2025-05-07
@@ -15,8 +15,8 @@ publish: true
 >
 > |               |
 > | ------------- |
-> | [identity:: ] |
-> | [theme:: ] |
+> | [identity:: One-Eyed Treasure Hunter with a Heart of Gold] |
+> | [theme:: Guilt] |
 > | [origin:: ] |
 > | [quirk:: [[Quirks#Survivor\|Survivor]]] |
 > | [class:: [[Rogue]]] |
@@ -36,4 +36,4 @@ publish: true
 
 # [[Cascata Leontina]]
 
-[Fultimator](https://fultimator.com/pc-gallery/mcpEANyybE5ClqyFPsn5)
+[Fultimator](https://fultimator.com/character-sheet/A2ZilaCajai6HWufGUww)
