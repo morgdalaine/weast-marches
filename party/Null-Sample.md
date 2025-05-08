@@ -1,13 +1,12 @@
 ---
 title: ▙ ▘ `null`
-tags: [the-one-link, ttrpg]
-created: 2025-03-24
+tags: [ttrpg, west-marches]
+created: 2025-05-06
 modified: 2025-05-07
-world: The One Link
-campaign: "[[ttrpgs/_archive/The One Link/World|The One Link]]"
-aliases: [▙ ▘]
-cssclasses:
-  - fabula-ultima
+world: west marches
+campaign: "[[ttrpgs/west marches/World|west marches]]"
+cssclasses: west-marches
+publish: true
 ---
 
 > [!wiki|headless]
@@ -36,7 +35,7 @@ cssclasses:
 
 # [[Null|▙ ▘]] `null`
 
-[Fultimator Link](https://fultimator.com/pc-gallery/iPRAIK2pjCnO8LDuysgO)
+[Fultimator](https://fultimator.com/pc-gallery/iPRAIK2pjCnO8LDuysgO)
 
 ## Her Majesty's Imperial Demon
 
