@@ -34,6 +34,6 @@ publish: true
 
 > [!quote|big invisible align-right headless]
 
-# [[Cascata Ludovica]]
+# [[Cascata Leontina]]
 
 [Fultimator](https://fultimator.com/pc-gallery/mcpEANyybE5ClqyFPsn5)
