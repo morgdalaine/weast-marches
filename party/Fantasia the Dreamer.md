@@ -34,7 +34,7 @@ publish: true
 
 # [[Fantasia the Dreamer]]
 
-[Fultimator](https://fultimator.com/character-sheet/o3wYPLFwCeNXpDVj2fNa)
+sheet:: [Fultimator](https://fultimator.com/character-sheet/o3wYPLFwCeNXpDVj2fNa)
 
 Fantasia deals in dreams and dream stuff, exchanging the bad for good, or drawing forth pieces from the Dreamscape for a time. Though quite frightening to some, it can often prove an invaluable service in enchanted lands where the magics present can cause all sorts of dream disorders. Though, it's also hard be frightened of someone that sleeps as much as Fantasia does, since she is equally likely to have narcoleptic fit in the midst of conversation or battle.
 

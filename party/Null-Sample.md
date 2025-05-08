@@ -35,7 +35,7 @@ publish: true
 
 # [[Null|▙ ▘]] `null`
 
-[Fultimator](https://fultimator.com/pc-gallery/iPRAIK2pjCnO8LDuysgO)
+sheet:: [Fultimator](https://fultimator.com/pc-gallery/iPRAIK2pjCnO8LDuysgO)
 
 ## Her Majesty's Imperial Demon
 

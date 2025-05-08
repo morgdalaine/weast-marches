@@ -1,8 +1,8 @@
 ---
-title: Taylor's Character
+title: "Taylor's Character"
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-06
+modified: 2025-05-08
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -18,8 +18,6 @@ publish: true
 > | [theme:: ] |
 > | [origin:: ] |
 > | [quirk:: [[Quirks#\|]]] |
-> | [class:: [[]]] |
-> | [class:: [[]]] |
 > | [pronouns:: ] |
 > | [race:: ] |
 > | [faction:: ] |
@@ -32,6 +30,9 @@ publish: true
 
 > [!quote|big invisible align-right headless]
 
+%% > | [class:: [[Loremaster]]] | %%
+%% > | [class:: [[Wayfarer]]] | %%
+
 # [[Taylor's Character]]
 
-[Fultimator](https://fultimator.com/character-sheet/)
+sheet:: [Fultimator](https://fultimator.com/character-sheet/)
