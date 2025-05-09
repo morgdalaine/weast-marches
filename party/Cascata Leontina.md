@@ -28,7 +28,7 @@ publish: true
 > | [location:: ] |
 > | [player:: [[Jamie]]] |
 >
-> (description:: A lithe Viera with a scarred face and wearing an eyepatch.)
+> (description:: A lithe Viera with a scarred face and an eyepatch.)
 >
 > ![[cascata.jpg]]
 
@@ -38,4 +38,6 @@ publish: true
 
 sheet:: [Fultimator](https://fultimator.com/character-sheet/A2ZilaCajai6HWufGUww)
 
-A fierce and nimble Viera treasure hunter, known for her acrobatic agility and capoeira-inspired combat style. She moves with the grace of a dancer and the precision of a killer, using flips, twirls, and sudden handstand kicks to disorient and disable foes. Scarred from past battles and wearing a signature eyepatch, her hardened expression and lean, muscular frame speak of years spent surviving deadly ruins, outwitting rivals, and navigating the shadows of the underworld in pursuit of rare artifacts. She's fast, unpredictable, and lethal in close quarters.
+A fierce and nimble Viera, known for her acrobatic combat style. She moves with the grace of a dancer, using flips, twirls, and sudden handstand kicks to disorient and disable foes. Scarred from past battles and wearing a signature eyepatch, her hardened expression and lean, muscular frame speak of years spent surviving deadly ruins. She's fast, unpredictable, and lethal in close quarters.
+
+She is the sole survivor of a doomed expedition deep into ancient ruins. Her closest crewmates, trusted like family, never made it out. Haunted by guilt and unanswered questions, she hides her grief behind sharp eyes, a colder edge, and relentless focus —pushing her body to the limit as if trying to outrun the ghosts that follow her.
