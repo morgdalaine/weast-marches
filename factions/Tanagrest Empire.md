@@ -2,7 +2,7 @@
 title: Tanagrest Empire
 tags: [ttrpg, west-marches]
 created: 2025-04-02
-modified: 2025-05-05
+modified: 2025-05-09
 type: faction
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
