@@ -1,8 +1,8 @@
 ---
-title: Big Sister
+title: Vesper
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-07
+modified: 2025-05-12
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
