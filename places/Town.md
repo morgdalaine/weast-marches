@@ -2,7 +2,7 @@
 title: Town
 tags: [ttrpg, west-marches]
 created: 2025-04-02
-modified: 2025-05-07
+modified: 2025-05-13
 type: place
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -25,7 +25,8 @@ publish: true
 >
 > (description:: A small outpost built from the ships the first settlers sailed over on.)
 
-> [!quote|big invisible align-right headless]
+> [!quote|big invisible align-right] Buzz Aldrin
+> Unfortunately, pioneers will always pave the way with sacrifices.
 
 # [[Town]]
 
