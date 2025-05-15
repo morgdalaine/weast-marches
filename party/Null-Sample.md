@@ -29,7 +29,7 @@ publish: true
 >
 > (description:: Is a demon without chains still a monster, or could she be something else?)
 
-> [!quote|big invisible align-right headless]
+> [!quote|big transparent align-right headless]
 > You gotta make your own kind of music.
 > Sing your own special song.
 

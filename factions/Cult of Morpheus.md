@@ -17,6 +17,6 @@ publish: true
 >
 > (description:: )
 
-> [!quote|big invisible align-right headless]
+> [!quote|big transparent align-right headless]
 
 # [[Cult of Morpheus]]

@@ -28,7 +28,7 @@ publish: true
 >
 > ![[]]
 
-> [!quote|big invisible align-right headless]
+> [!quote|big transparent align-right headless]
 
 %% > | [class:: [[Loremaster]]] | %%
 %% > | [class:: [[Wayfarer]]] | %%

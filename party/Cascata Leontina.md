@@ -32,7 +32,7 @@ publish: true
 >
 > ![[cascata.jpg]]
 
-> [!quote|big invisible align-right headless]
+> [!quote|big transparent align-right headless]
 
 # [[Cascata Leontina]]
 

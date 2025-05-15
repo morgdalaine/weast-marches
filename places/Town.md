@@ -25,7 +25,7 @@ publish: true
 >
 > (description:: A small outpost built from the ships the first settlers sailed over on.)
 
-> [!quote|big invisible align-right] Buzz Aldrin
+> [!quote|big transparent align-right] Buzz Aldrin
 > Unfortunately, pioneers will always pave the way with sacrifices.
 
 # [[Town]]

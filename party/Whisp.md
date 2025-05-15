@@ -31,7 +31,7 @@ publish: true
 >
 > ![[whisp.png]]
 
-> [!quote|big invisible align-right headless]
+> [!quote|big transparent align-right headless]
 
 # [[Whisp]]
 

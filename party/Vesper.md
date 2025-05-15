@@ -2,7 +2,7 @@
 title: Vesper
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-12
+modified: 2025-05-14
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -27,6 +27,8 @@ publish: true
 > | [player:: [[Joshua]]] |
 >
 > (description:: )
+>
+> ![[vesper.jpg]]
 
 > [!quote|big invisible align-right headless]
 
