@@ -2,7 +2,7 @@
 title: Cascata Leontina
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-08
+modified: 2025-05-15
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -23,7 +23,7 @@ publish: true
 > | [class:: [[Weaponmaster]]] |
 > | [class:: [[Dancer]]] |
 > | [pronouns:: she/her] |
-> | [race:: Viera] |
+> | [race:: viera] |
 > | [faction:: ] |
 > | [location:: ] |
 > | [player:: [[Jamie]]] |

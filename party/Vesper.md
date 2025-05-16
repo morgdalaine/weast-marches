@@ -21,7 +21,7 @@ publish: true
 > | [class:: [[Sharpshooter]]] |
 > | [class:: [[Spiritist]]] |
 > | [pronouns:: she/her] |
-> | [race:: ] |
+> | [race:: human] |
 > | [faction:: ] |
 > | [location:: ] |
 > | [player:: [[Joshua]]] |

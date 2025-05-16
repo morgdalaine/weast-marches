@@ -23,7 +23,7 @@ publish: true
 > | [class:: [[Pilot]]] |
 > | [pronouns:: she/her] |
 > | [race:: elf] |
-> | [faction:: ] |
+> | [faction:: University] |
 > | [location:: ] |
 > | [player:: [[Taylor]]] |
 >
