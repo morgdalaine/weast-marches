@@ -2,7 +2,7 @@
 title: "Taylor's Character"
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-08
+modified: 2025-05-15
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -14,12 +14,15 @@ publish: true
 >
 > |               |
 > | ------------- |
-> | [identity:: ] |
-> | [theme:: ] |
-> | [origin:: ] |
-> | [quirk:: [[Quirks#\|]]] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [identity:: Post-Doc Naturalist] |
+> | [theme:: Ambition] |
+> | [origin:: Capital City, Tanagrest] |
+> | [quirk:: [[Quirks#Stubborn Scion\|Stubborn Scion]]] |
+> | [class:: [[Loremaster]]] |
+> | [class:: [[Wayfarer]]] |
+> | [class:: [[Pilot]]] |
+> | [pronouns:: she/her] |
+> | [race:: elf] |
 > | [faction:: ] |
 > | [location:: ] |
 > | [player:: [[Taylor]]] |
@@ -29,9 +32,6 @@ publish: true
 > ![[]]
 
 > [!quote|big transparent align-right headless]
-
-%% > | [class:: [[Loremaster]]] | %%
-%% > | [class:: [[Wayfarer]]] | %%
 
 # [[Taylor's Character]]
 
