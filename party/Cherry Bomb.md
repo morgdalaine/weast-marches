@@ -2,7 +2,7 @@
 title: Alexis Character
 tags: [ttrpg, west-marches]
 created: 2025-05-12
-modified: 2025-05-12
+modified: 2025-05-15
 type:
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -17,7 +17,7 @@ publish: true
 > | [identity:: ] |
 > | [theme:: ] |
 > | [origin:: ] |
-> | [quirk:: ] |
+> | [quirk:: [[Quirks#Diabolist\|Diabolist]]] |
 > | [class:: ] |
 > | [pronouns:: ] |
 > | [race:: ] |
@@ -29,4 +29,4 @@ publish: true
 
 > [!quote|big transparent align-right headless]
 
-# [[Alexis Character]]
+# [[Cherry Bomb]]
