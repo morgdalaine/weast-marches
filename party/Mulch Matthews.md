@@ -17,9 +17,11 @@ publish: true
 > | [identity:: Seeker of Humanity] |
 > | [theme:: Vengeance] |
 > | [origin:: Secret Lab Under the Empire] |
-> | [quirk:: ] |
-> | [class:: ] |
-> | [pronouns:: ] |
+> | [quirk:: [[Quirks#Fugitive Experiment\|Fugitive Experiment]]] |
+> | [class:: [[Weaponmaster]]] |
+> | [class:: [[Chimerist]]] |
+> | [class:: [[Mutant]]] |
+> | [pronouns:: he/him] |
 > | [race:: ] |
 > | [faction:: ] |
 > | [location:: ] |
