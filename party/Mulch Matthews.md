@@ -1,8 +1,8 @@
 ---
-title: Jay Character
+title: Mulch Matthews
 tags: [ttrpg, west-marches]
 created: 2025-05-12
-modified: 2025-05-12
+modified: 2025-05-19
 type:
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -14,9 +14,9 @@ publish: true
 >
 > |               |
 > | ------------- |
-> | [identity:: ] |
-> | [theme:: ] |
-> | [origin:: ] |
+> | [identity:: Seeker of Humanity] |
+> | [theme:: Vengeance] |
+> | [origin:: Secret Lab Under the Empire] |
 > | [quirk:: ] |
 > | [class:: ] |
 > | [pronouns:: ] |
@@ -29,4 +29,8 @@ publish: true
 
 > [!quote|big transparent align-right headless]
 
-# [[Jay Character]]
+# [[Mulch Matthews]]
+
+sheet:: [Fultimator](https://fultimator.com/pc-gallery/3qpqKtfxfuMzkOj1imCe)
+
+trying to find what it means to be human
