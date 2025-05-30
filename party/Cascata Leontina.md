@@ -2,7 +2,7 @@
 title: Cascata Leontina
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-15
+modified: 2025-05-29
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -41,3 +41,8 @@ sheet:: [Fultimator](https://fultimator.com/character-sheet/A2ZilaCajai6HWufGUww
 A fierce and nimble Viera, known for her acrobatic combat style. She moves with the grace of a dancer, using flips, twirls, and sudden handstand kicks to disorient and disable foes. Scarred from past battles and wearing a signature eyepatch, her hardened expression and lean, muscular frame speak of years spent surviving deadly ruins. She's fast, unpredictable, and lethal in close quarters.
 
 She is the sole survivor of a doomed expedition deep into ancient ruins. Her closest crewmates, trusted like family, never made it out. Haunted by guilt and unanswered questions, she hides her grief behind sharp eyes, a colder edge, and relentless focus —pushing her body to the limit as if trying to outrun the ghosts that follow her.
+
+## Bonds
+
+- [[Fantasia the Dreamer]] **Admiration**
+- [[Whisp]] **Inferiority**

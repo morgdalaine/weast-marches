@@ -36,3 +36,5 @@ publish: true
 sheet:: [Fultimator](https://fultimator.com/pc-gallery/3qpqKtfxfuMzkOj1imCe)
 
 trying to find what it means to be human
+
+## Bonds
