@@ -20,10 +20,11 @@ publish: true
 > | [quirk:: ] |
 > | [class:: [[Elementalist]]] |
 > | [class:: [[Loremaster]]] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [pronouns:: she/her] |
+> | [race:: bear] |
 > | [faction:: ] |
 > | [location:: ] |
+> | [player:: [[Jen]]] |
 >
 > (description:: )
 

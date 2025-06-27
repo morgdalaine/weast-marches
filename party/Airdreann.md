@@ -20,10 +20,11 @@ publish: true
 > | [quirk:: ] |
 > | [class:: [[Tinkerer]]] |
 > | [class:: [[Sharpshooter]]] |
-> | [pronouns:: ] |
-> | [race:: ] |
+> | [pronouns:: he/him] |
+> | [race:: bear] |
 > | [faction:: ] |
 > | [location:: ] |
+> | [player:: [[Anthony]]] |
 >
 > ![[airdreann.png]]
 > (description:: )

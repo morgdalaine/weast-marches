@@ -2,7 +2,7 @@
 title: Seven
 tags: [ttrpg, west-marches]
 created: 2025-05-19
-modified: 2025-05-19
+modified: 2025-06-27
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -25,6 +25,7 @@ publish: true
 > | [race:: changeling] |
 > | [faction:: ] |
 > | [location:: ] |
+> | [player:: [[Skelly]]] |
 >
 > (description:: )
 
