@@ -1,8 +1,8 @@
 ---
-title: "Taylor's Character"
+title: Edie Deventer
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-15
+modified: 2025-06-26
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -29,10 +29,10 @@ publish: true
 >
 > (description:: )
 >
-> ![[]]
+> ![[EdieDeventer.png]]
 
 > [!quote|big transparent align-right headless]
 
-# [[Taylor's Character]]
+# [[Edie Deventer]]
 
 sheet:: [Fultimator](https://fultimator.com/character-sheet/)

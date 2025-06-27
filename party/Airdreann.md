@@ -1,9 +1,9 @@
 ---
-title: Ryan Character
+title: Airdreann
 tags: [ttrpg, west-marches]
-created: 2025-05-12
-modified: 2025-05-12
-type:
+created: 2025-06-26
+modified: 2025-06-27
+type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
 cssclasses: west-marches
@@ -18,15 +18,18 @@ publish: true
 > | [theme:: ] |
 > | [origin:: ] |
 > | [quirk:: ] |
-> | [class:: ] |
+> | [class:: [[Tinkerer]]] |
+> | [class:: [[Sharpshooter]]] |
 > | [pronouns:: ] |
 > | [race:: ] |
 > | [faction:: ] |
 > | [location:: ] |
-> | [player:: [[Ryan]]] |
 >
+> ![[airdreann.png]]
 > (description:: )
 
-> [!quote|big transparent align-right headless]
+> [!quote|big invisible align-right headless]
 
-# [[Ryan Character]]
+# [[Airdreann]]
+
+sheet:: [Fultimator](https://fultimator.com/pc-gallery/bbB1I1u7nO7s8KkMaW9e)
