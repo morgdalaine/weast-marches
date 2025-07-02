@@ -32,6 +32,6 @@ publish: true
 
 # [[Rexx Gristlegrind]]
 
-sheet: [Fultimator](https://fultimator.com/character-sheet/SbVkgWqL74N4K4PtdyZ8)
+sheet:: [Fultimator](https://fultimator.com/character-sheet/SbVkgWqL74N4K4PtdyZ8)
 
 A gruff goblin who's very tall for his people, Rexx is permanently surly and never without a vulgar response. That doesn't stop him from making sure every adventurer to the Weast is well fed for the journey, even if that means riding out into the continent alongside them.
