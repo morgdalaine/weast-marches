@@ -2,7 +2,7 @@
 title: Airdreann
 tags: [ttrpg, west-marches]
 created: 2025-06-26
-modified: 2025-06-27
+modified: 2025-07-02
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -27,6 +27,7 @@ publish: true
 > | [player:: [[Anthony]]] |
 >
 > ![[airdreann.png]]
+>
 > (description:: )
 
 > [!quote|big invisible align-right headless]
