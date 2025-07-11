@@ -35,4 +35,4 @@ publish: true
 
 # [[Edie Deventer]]
 
-sheet:: [Fultimator](https://fultimator.com/character-sheet/)
+sheet:: [Fultimator](https://fultimator.com/character-sheet/6O46l26KkREUOxNHcuj4)
