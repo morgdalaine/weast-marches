@@ -2,7 +2,7 @@
 title: Fantasia the Dreamer
 tags: [ttrpg, west-marches]
 created: 2025-05-06
-modified: 2025-05-29
+modified: 2025-07-15
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -31,7 +31,7 @@ publish: true
 >
 > ![[fantasia.webp]]
 
-> [!quote|big transparent align-right headless]
+%% > [!quote|big transparent align-right headless] %%
 
 # [[Fantasia the Dreamer]]
 

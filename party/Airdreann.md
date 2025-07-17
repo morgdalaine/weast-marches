@@ -2,7 +2,7 @@
 title: Airdreann
 tags: [ttrpg, west-marches]
 created: 2025-06-26
-modified: 2025-07-02
+modified: 2025-07-16
 type: pc
 world: west marches
 campaign: "[[ttrpgs/west marches/World|west marches]]"
@@ -14,10 +14,10 @@ publish: true
 >
 > |               |
 > | ------------- |
-> | [identity:: ] |
-> | [theme:: ] |
-> | [origin:: ] |
-> | [quirk:: ] |
+> | [identity:: Magical Gunner] |
+> | [theme:: Ambition] |
+> | [origin:: Tanigraft Empire from the High Academy] |
+> | [quirk:: [[Quirks#Heirloom\|Heirloom]]] |
 > | [class:: [[Tinkerer]]] |
 > | [class:: [[Sharpshooter]]] |
 > | [pronouns:: he/him] |
