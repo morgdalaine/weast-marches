@@ -40,4 +40,4 @@ A painter who works as a landscape painter for the imperials. He arrived to the 
 
 ## Bonds
 
-- [[Tangrest Empire]] **Admiration,** **Mistrust**
+- [[Tanagrest Empire]] **Admiration,** **Mistrust**
