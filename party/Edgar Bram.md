@@ -22,11 +22,11 @@ publish: true
 > | [class:: [[Invoker]]] |
 > | [class:: [[Wayfarer]]] |
 > | [pronouns:: he/him] |
-> | [race:: ] |
+> | [race:: [[Human]]] |
 > | [faction:: ] |
 > | [player:: [[Travis]]] |
 >
-> (description:: )
+> (description:: Middle Aged Man, Dark messy hair, gentle green eyes, small round nose. He keeps a generally unkept look, stains of paint on his worn Tangrest Empire Miltary Outfit. A severly paint stained pack with a painting easel strapped to it as well as brushes sticking out of pockets on his back.  )
 
 > [!quote|big invisible align-right headless]
 
